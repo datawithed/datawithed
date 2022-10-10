@@ -1,6 +1,6 @@
 - Hi, I’m @datawithed, known as Ed!
 - I’m interested in sports analytics and visualisations for these
-- I’m currently practising the sharing of my work via Streamlit dashboards
+- I’m currently practising the communication of my work via Streamlit dashboards and my social media
 - I’m looking to collaborate on any interesting sports analytics projects
 - 📫 How to reach me: 
     - datawithed@outlook.com
