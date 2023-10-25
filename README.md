@@ -1,4 +1,4 @@
-- Hi, I’m @datawithed, known as Ed!
+- Hi, I’m Ed!
 - I’m interested in sports analytics and visualisations for these
 - I’m looking to collaborate on any interesting sports analytics projects
 - 📫 How to reach me: 
