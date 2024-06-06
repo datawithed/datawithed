@@ -1,6 +1,4 @@
-- Hi, I’m Ed!
-- I’m interested in sports analytics and visualisations for these
-- I’m looking to collaborate on any interesting sports analytics projects
+- I work in sports analytics, with experience working with data across tennis and football
 - 📫 How to reach me: 
     - datawithed@outlook.com
     - Instagram: @data_with_ed
