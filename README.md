@@ -1,3 +1,1 @@
-- I work in sports analytics, with experience working with data across tennis and football
-- 📫 How to reach me: 
-    - datawithed@outlook.com
+- I work in sports analytics, with experience working with data across tennis and football.
